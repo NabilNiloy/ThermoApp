@@ -1,2 +1,2 @@
 # ThermoApp
-Making a temperature converting app from one temperature to the other 
+Making a temperature converting app that converts temperature to different units.
